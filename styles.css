@@ -1,0 +1,52 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-image: url("data:image/png;base64,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");
+    background-repeat: no-repeat;
+	background-size: cover;
+    text-align: center;
+}
+
+.counter{
+    font-size:20px;
+}
+
+h4{
+    font-family: 'Black And White Picture', sans-serif;
+    font-size: 30px;
+}
+
+.question-two {
+    color:white;
+    font-size:50px;
+}
+.question-2 {
+    color:white;
+    font-size:45px;
+}
+
+input {
+    border-radius:15px;
+    font-size:30px;
+    border:7px black inset;
+}
+
+.answerButton {
+    padding:10px;
+    font-size:50px;
+    font-weight:bold;
+    border-radius:15px;
+    border:10px inset black;
+    background-color:red;
+    margin:20px;
+    color:white;
+}
+
+.userInput-one {
+    position:relative;
+    top:100%;
+	right:25%;
+}
+
+img {
+    width: 400px;
+}
